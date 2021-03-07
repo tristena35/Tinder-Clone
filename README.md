@@ -2,7 +2,7 @@
 
 ### `What it does`
 
-Below you will see the features of the 'Tinder Clone' application I created using the MERN stack (MongoDB, Express, ReactJS, Node.js)
+'Tinder Clone' is FullStack application I created using the MERN stack (MongoDB, Express, ReactJS, Node.js) which has all the same features and attributes of the main Tinder swipe functionality
 
 ### `Images of the App in use`
 
