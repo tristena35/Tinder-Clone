@@ -6,4 +6,4 @@ Below you will see the features of the 'Tinder Clone' application I created usin
 
 ### `Images of the App in use`
 
-<img src = "https://github.com/tristena35/Tinder-Clone/blob/master/screenshots/1.png?raw=true" width="600" height="600"> 
+<img src = "https://github.com/tristena35/Tinder-Clone/blob/main/screenshots/1.png" width="600" height="600"> 
