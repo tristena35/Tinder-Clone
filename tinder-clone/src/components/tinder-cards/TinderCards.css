@@ -1,0 +1,37 @@
+.card {
+  position: relative;
+  background-color: white;
+  width: 600px;
+  padding: 20px;
+  max-width: 85vw;
+  height: 50vh;
+  box-shadow: 0px 18px 53px 0px rgba(0, 0, 0.3);
+  border-radius: 20px;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Puts all cards in a row in the middle of the screen with some margin on top */
+.tinderCards__cardContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 10vh;
+}
+
+/* This class on the TinderCard imported component, stacks the cards */
+.swipe {
+  position: absolute;
+}
+
+.cardContent {
+  width: 100%;
+  height: 100%;
+}
+
+/* Styles all <h3> tags in the tags that have the card class */
+.card h3 {
+  position: absolute;
+  bottom: 0;
+  margin: 10px;
+  color: white;
+}
